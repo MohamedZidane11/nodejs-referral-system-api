@@ -35,12 +35,11 @@ const serviceAccount = {
 if (!admin.apps.length) {
   try {
     admin.initializeApp({
-      credential: admin.credential.applicationDefault()
+      credential: admin.credential.cert(require('./serviceAccountKey.json'))
     });
     console.log('Firebase initialized successfully');
   } catch (error) {
     console.log('Firebase initialization error:', error.message);
-    console.log('Please set up Firebase credentials properly');
   }
 }
 
