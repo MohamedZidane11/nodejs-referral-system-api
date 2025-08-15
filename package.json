@@ -1,14 +1,25 @@
 {
   "name": "nodejs-referral-api",
   "version": "1.0.0",
-  "description": "",
+  "description": "Referral system API with Firebase Firestore integration for Make.com",
   "main": "api.js",
   "scripts": {
+    "start": "node api.js",
+    "dev": "nodemon api.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "keywords": [
+    "referral",
+    "api",
+    "firebase",
+    "firestore",
+    "make.com",
+    "webhook",
+    "express",
+    "nodejs"
+  ],
+  "author": "Mohamed Zidane",
+  "license": "MIT",
   "dependencies": {
     "cors": "^2.8.5",
     "express": "^5.1.0",
