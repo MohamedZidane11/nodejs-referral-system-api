@@ -150,9 +150,4 @@ Found a bug? Please [open an issue](https://github.com/yourusername/referral-sys
 
 **⭐ Star this repository if you found it helpful!**
 
-Made with ❤️ by [Your Name](https://github.com/yourusername)
-
-[![GitHub stars](https://img.shields.io/github/stars/yourusername/referral-system-api.svg?style=social&label=Star)](https://github.com/yourusername/referral-system-api)
-[![GitHub forks](https://img.shields.io/github/forks/yourusername/referral-system-api.svg?style=social&label=Fork)](https://github.com/yourusername/referral-system-api/fork)
-
 </div>
